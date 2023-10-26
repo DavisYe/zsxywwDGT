@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/未命名.md",
+                "file": "DOC/1.1WIKI维护.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOC/未命名.md",
+                "file": "DOC/1.1WIKI维护.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOC/未命名.md",
+                "file": "DOC/1.1WIKI维护.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOC/未命名.md"
+                "file": "DOC/1.1WIKI维护.md"
               }
             }
           }
@@ -186,13 +186,16 @@
   },
   "active": "29873c5c949278d9",
   "lastOpenFiles": [
-    "DOC/2.2wiki.js个人知识库搭建.md",
-    "DOC/未命名.md",
+    "File/img/wikijs官网.png",
+    "DOC/1.1WIKI维护.md",
+    "README.md",
+    "DOC/2.2Markdown语言.md",
+    "DOC/2.3wiki.js个人知识库搭建.md",
+    "File/img/wiki的pr规范.png",
+    "File/img/网维增幅典籍.png",
     "File/img",
     "DOC/2.1Git项目管理.md",
-    "README.md",
     "未命名",
-    "DOC/1.1WIKI维护.md",
     "DOC/1.3官网维护.md",
     "DOC/1.2报修系统维护.md",
     "File",
