@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "1be30793d874d904",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ea4586c4e757791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340094bfcb04dae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "636b8bf64062747e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "649d0a9839f199ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOC/2.1Git项目管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29873c5c949278d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOC/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13bc7adb4a300a07",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a25a6c1b91a3022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69bcef3dd2b98665",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e957c65986b9b83c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efde90831fedb618",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7af247bd22cdb2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf18ee4c828ea3e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41f6471086778ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DOC/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9340e7cdcb377cfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DOC/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faffdc68b4065f3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e81df6b4568e39e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DOC/未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "29873c5c949278d9",
+  "lastOpenFiles": [
+    "DOC/2.2wiki.js个人知识库搭建.md",
+    "DOC/未命名.md",
+    "File/img",
+    "DOC/2.1Git项目管理.md",
+    "README.md",
+    "未命名",
+    "DOC/1.1WIKI维护.md",
+    "DOC/1.3官网维护.md",
+    "DOC/1.2报修系统维护.md",
+    "File",
+    "DOC"
+  ]
+}
