@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DOC/2.1Git项目管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "649d0a9839f199ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOC/2.1Git项目管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29873c5c949278d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOC/1.1WIKI维护.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOC/1.1WIKI维护.md",
+                "file": "DOC/2.1Git项目管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOC/1.1WIKI维护.md",
+                "file": "DOC/2.1Git项目管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOC/1.1WIKI维护.md"
+                "file": "DOC/2.1Git项目管理.md"
               }
             }
           }
@@ -184,20 +159,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "29873c5c949278d9",
+  "active": "340094bfcb04dae2",
   "lastOpenFiles": [
-    "File/img/wikijs官网.png",
-    "DOC/1.1WIKI维护.md",
-    "README.md",
     "DOC/2.2Markdown语言.md",
-    "DOC/2.3wiki.js个人知识库搭建.md",
-    "File/img/wiki的pr规范.png",
-    "File/img/网维增幅典籍.png",
-    "File/img",
+    "DOC/2.3wiki.js与个人知识库搭建.md",
     "DOC/2.1Git项目管理.md",
-    "未命名",
-    "DOC/1.3官网维护.md",
+    "File/img/git-创建README.png",
     "DOC/1.2报修系统维护.md",
+    "README.md",
+    "File/img/git-新仓库页面.png",
+    "File/img/git-InstallGitMeme.png",
+    "File/img/git-Github官网.png",
+    "File/img/git-git本地仓库创建记录.png",
+    "File/img/git-创建远程仓库.png",
+    "File/img/git-githelp.png",
+    "File/img/git-工作目录.png",
+    "File/img/git-快照记录.png",
+    "DOC/meme.md",
+    "File/img/Pasted image 20231028234733.png",
+    "DOC/1.3官网维护.md",
+    "DOC/1.1WIKI维护.md",
+    "File/img",
+    "未命名",
     "File",
     "DOC"
   ]

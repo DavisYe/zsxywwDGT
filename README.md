@@ -22,7 +22,7 @@
 #### 2. 基本功
 * [2.1Git项目管理](DOC/2.1Git项目管理.md)
 * [2.2Markdown语言](DOC/2.2Markdown语言.md)
-* [2.3wiki.js个人知识库搭建](DOC/2.3wiki.js个人知识库搭建.md)
+* [2.3wiki.js与个人知识库搭建](DOC/2.3wiki.js与个人知识库搭建.md)
 
 
 #### 3. 拓展
