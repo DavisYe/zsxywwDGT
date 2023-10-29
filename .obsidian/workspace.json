@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOC/2.1Git项目管理.md",
+                "file": "DOC/2.2Markdown语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOC/2.1Git项目管理.md",
+                "file": "DOC/2.2Markdown语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOC/2.1Git项目管理.md",
+                "file": "DOC/2.2Markdown语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOC/2.1Git项目管理.md"
+                "file": "DOC/2.2Markdown语言.md"
               }
             }
           }
@@ -161,9 +161,11 @@
   },
   "active": "340094bfcb04dae2",
   "lastOpenFiles": [
+    "[.md",
     "DOC/2.2Markdown语言.md",
-    "DOC/2.3wiki.js与个人知识库搭建.md",
+    "File/img/md-图标.png",
     "DOC/2.1Git项目管理.md",
+    "DOC/2.3wiki.js与个人知识库搭建.md",
     "File/img/git-创建README.png",
     "DOC/1.2报修系统维护.md",
     "README.md",
@@ -176,7 +178,6 @@
     "File/img/git-工作目录.png",
     "File/img/git-快照记录.png",
     "DOC/meme.md",
-    "File/img/Pasted image 20231028234733.png",
     "DOC/1.3官网维护.md",
     "DOC/1.1WIKI维护.md",
     "File/img",
