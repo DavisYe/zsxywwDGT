@@ -26,8 +26,10 @@
 * [2.2Markdown语言](DOC/2.2Markdown语言.md)
 * [2.3wiki.js与个人知识库搭建](DOC/2.3wiki.js与个人知识库搭建.md)
 
-
 #### 3. 拓展
+
+#### 4. 练习
+- [4.1 Work1](DOC/4.1%20Work1.md)
 
 待添加
 
