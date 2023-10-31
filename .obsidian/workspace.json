@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "340094bfcb04dae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DOC/4.1 Work1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "636b8bf64062747e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DOC/4.1 Work1.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,11 +147,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "340094bfcb04dae2",
+  "active": "69bcef3dd2b98665",
   "lastOpenFiles": [
-    "DOC/2.2Markdown语言.md",
-    "README.md",
+    "File/img/work-发起pr请求.png",
+    "File/img/work1-添加链接目录.png",
     "DOC/4.1 Work1.md",
+    "File/img/work1-练习页面.png",
+    "README.md",
+    "File/img/work1-fork仓库.png",
+    "File/img/work1-Git练习场.png",
+    "DOC/2.2Markdown语言.md",
     "DOC/2.1Git项目管理.md",
     "DOC/1.3官网维护.md",
     "DOC/1.2报修系统维护.md",
@@ -176,10 +169,6 @@
     "File/img/git-InstallGitMeme.png",
     "File/img/git-Github官网.png",
     "File/img/git-git本地仓库创建记录.png",
-    "File/img/git-创建远程仓库.png",
-    "File/img/git-githelp.png",
-    "File/img/git-工作目录.png",
-    "File/img/git-快照记录.png",
     "DOC/meme.md",
     "File/img",
     "未命名",
